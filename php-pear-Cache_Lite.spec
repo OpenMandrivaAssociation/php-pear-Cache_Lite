@@ -8,7 +8,7 @@
 Summary:	%{_pearname} - Fast and Safe little cache system
 Name:		php-pear-%{_pearname}
 Version:	1.7.2
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	PHP License
 Group:		Development/PHP
 URL:		http://pear.php.net/package/Cache_Lite/
