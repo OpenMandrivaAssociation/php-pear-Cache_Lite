@@ -7,19 +7,19 @@
 
 Summary:	%{_pearname} - Fast and Safe little cache system
 Name:		php-pear-%{_pearname}
-Version:	1.7.2
-Release:	%mkrel 4
+Version:	1.7.4
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
 URL:		http://pear.php.net/package/Cache_Lite/
-Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
+Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 Source1:	Hashed_Cache_Lite.php.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
 Requires:	php-pear
 BuildArch:	noarch
 BuildRequires:	dos2unix
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 This package is a little cache system optimized for file containers.
