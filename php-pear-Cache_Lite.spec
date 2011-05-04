@@ -6,7 +6,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.7.9
-Release:	%mkrel 1
+Release:	%mkrel 2
 Summary:	Fast and Safe little cache system
 License:	PHP License
 Group:		Development/PHP
