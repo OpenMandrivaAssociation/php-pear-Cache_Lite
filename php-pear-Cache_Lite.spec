@@ -5,7 +5,7 @@
 %define _requires_exceptions pear(Cache/Lite/Lite.php)
 
 Name:		php-pear-%{upstream_name}
-Version:	1.7.11
+Version:	1.7.12
 Release:	%mkrel 1
 Summary:	Fast and Safe little cache system
 License:	PHP License
