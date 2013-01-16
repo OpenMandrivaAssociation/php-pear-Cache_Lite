@@ -2,8 +2,6 @@
 %define		_subclass	Lite
 %define		upstream_name	%{_class}_%{_subclass}
 
-%define _requires_exceptions pear(Cache/Lite/Lite.php)
-
 Name:		php-pear-%{upstream_name}
 Version:	1.7.11
 Release:	%mkrel 3
