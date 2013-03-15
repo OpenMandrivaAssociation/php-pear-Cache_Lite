@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.7.11
-Release:	%mkrel 3
+Release:	4
 Summary:	Fast and Safe little cache system
 License:	PHP License
 Group:		Development/PHP
@@ -16,7 +16,6 @@ Requires(preun): php-pear
 Requires:	php-pear
 BuildArch:	noarch
 BuildRequires:	php-pear
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 This package is a little cache system optimized for file containers.
