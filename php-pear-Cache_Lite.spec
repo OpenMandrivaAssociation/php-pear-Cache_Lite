@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.7.11
-Release:	4
+Release:	5
 Summary:	Fast and Safe little cache system
 License:	PHP License
 Group:		Development/PHP
