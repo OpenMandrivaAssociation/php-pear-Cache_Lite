@@ -5,7 +5,7 @@
 Summary:	Fast and Safe little cache system
 Name:		php-pear-%{upstream_name}
 Version:	1.7.11
-Release:	10
+Release:	11
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/Cache_Lite/
