@@ -8,7 +8,7 @@ Version:	1.7.11
 Release:	14
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/Cache_Lite/
+Url:		https://pear.php.net/package/Cache_Lite/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Source1:	Hashed_Cache_Lite.php.bz2
 BuildArch:	noarch
